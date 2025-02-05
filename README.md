@@ -12,7 +12,7 @@ This module can be applied to any differentiable pytorch model.
 ## Installation
 
 ```
-pip install git+https://gitlab.etp.kit.edu/lsowa/tayloranalysis.git
+pip install tayloranalysis
 ```
 
 ## Usage
