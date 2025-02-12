@@ -6,3 +6,4 @@ workspace.code-workspace
 *vscode*
 *.pyc
 examples/data/
+dist/
