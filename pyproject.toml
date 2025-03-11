@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "tayloranalysis"
-version = "0.2.8"
+version = "0.2.14"
 description = "Taylorcoefficient Analysis for pytorch models"
-authors = ["Artur Monsch <artur.monsch@kit.edu>", "Lars Sowa <lars.sowa@kit.edu>",]
+authors = ["Artur Monsch, Lars Sowa <lars.sowa@kit.edu,artur.monsch@kit.edu>"]
 license = "GPL-3.0-only"
 readme = "README.md"
-repository="https://gitlab.etp.kit.edu/lsowa/tayloranalysis"
+repository="https://github.com/KIT-CMS/tayloranalysis"
 keywords = ["PyTorch", "model analysis", "Taylor coefficients"]
 
 

@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14998996.svg)](https://doi.org/10.5281/zenodo.14998996)
+
+
 # Taylorcoefficient Analysis for PyTorch modules
 This is a pytorch implementation of the Paper
 ["Identifying the relevant dependencies of the neural network response on characteristics of the input space"](https://arxiv.org/abs/1803.08782)
